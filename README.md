@@ -1,14 +1,9 @@
-# React Quiz Application
+## 🚀 Live Demo
+https://quiz-application-xxxx.vercel.app
 
-This is a simple **Quiz Application** built using **React + Vite**. It provides a minimal setup to get React working efficiently with **Hot Module Replacement (HMR)** and **ESLint rules**.
-
-
-## Installation
-To get started, clone the repository and install dependencies:
-
-```sh
-git clone https://github.com/JitendraKumar63/quiz-application-.git
-cd quiz-application-
-npm install
-npm run dev
-```
+## Features
+- Multiple categories
+- Timer based questions
+- Dark / Light mode
+- Score tracking
+- Responsive UI
