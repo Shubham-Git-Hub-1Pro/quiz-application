@@ -1,5 +1,6 @@
 ## 🚀 Live Demo
-https://https://quiz-application-imb8nx0yn.vercel.app/
+https://quiz-application-imb8nx0yn.vercel.app
+
 
 ## Features
 - Multiple categories
